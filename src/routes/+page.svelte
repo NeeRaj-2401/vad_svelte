@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import * as helper from '$utils/helpers.js';
 
   let myvad;
 
